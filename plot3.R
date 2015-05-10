@@ -1,4 +1,4 @@
-# Source the function that gets raw data amd make them tidy
+# Source the function that gets raw data and make them tidy
 source("getdata.R")
 
 # Get data
